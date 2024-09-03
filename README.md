@@ -1,5 +1,8 @@
 # Neural-population-dynamics-optimization-algorithm-NPDOA
 
+The code of NPDOA. Just put the code into \PlatEMO-4.1\PlatEMO\Algorithms\Single-objective optimization\ 
+
+
 Junzhong Ji, Tongxuan Wu, Cuicui Yang,
 Neural population dynamics optimization algorithm: A novel brain-inspired meta-heuristic method,
 Knowledge-Based Systems,
